@@ -56,7 +56,7 @@ body {
 }
 
 /* styling multiple buttons */
-.language-buttons {
+.language-button {
   list-style-type: none;
   display: grid;
   grid-template-columns: 15% 15% 15%;
